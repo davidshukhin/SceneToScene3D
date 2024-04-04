@@ -1,0 +1,11 @@
+Model Information:
+* title:	Big Head Cromulons from Rick and Morty
+* source:	https://sketchfab.com/3d-models/big-head-cromulons-from-rick-and-morty-a8b87ae550fe4c13b4ded0a76a713d6b
+* author:	Leo Fossa (https://sketchfab.com/utsuki)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Big Head Cromulons from Rick and Morty" (https://sketchfab.com/3d-models/big-head-cromulons-from-rick-and-morty-a8b87ae550fe4c13b4ded0a76a713d6b) by Leo Fossa (https://sketchfab.com/utsuki) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

@@ -1,0 +1,379 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        1.2793498039245605,
+        1.923945426940918,
+        1.4155011177062988
+      ],
+      "min": [
+        -1.2795768976211548,
+        -1.8661785125732422,
+        -1.589203953742981
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 786384,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        0.9999704957008362,
+        0.9999896287918091,
+        0.9999956488609314
+      ],
+      "min": [
+        -0.9999821186065674,
+        -0.9999732375144958,
+        -0.9999738335609436
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 379665,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1572768,
+      "componentType": 5126,
+      "count": 16618,
+      "max": [
+        1.2273657321929932,
+        1.9099650382995605,
+        1.4865719079971313
+      ],
+      "min": [
+        -1.1839563846588135,
+        -1.8523434400558472,
+        -1.5584897994995117
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1772184,
+      "componentType": 5126,
+      "count": 16618,
+      "max": [
+        0.9997072219848633,
+        0.9947659373283386,
+        1.0
+      ],
+      "min": [
+        -0.9997096657752991,
+        -0.999862015247345,
+        -0.9611330628395081
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 1518660,
+      "componentType": 5125,
+      "count": 75951,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1971600,
+      "componentType": 5126,
+      "count": 450,
+      "max": [
+        2.4554483890533447,
+        1.0,
+        1.0125027894973755
+      ],
+      "min": [
+        -0.9807848334312439,
+        -0.43963468074798584,
+        -0.9807852506637573
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1977000,
+      "componentType": 5126,
+      "count": 450,
+      "max": [
+        0.9988749027252197,
+        1.0,
+        0.9583187699317932
+      ],
+      "min": [
+        -0.9569404721260071,
+        -0.07204588502645493,
+        -0.9569400548934937
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 450,
+      "max": [
+        5.889975070953369,
+        5.8983473777771
+      ],
+      "min": [
+        -4.891393661499023,
+        -4.8983473777771
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 1822464,
+      "componentType": 5125,
+      "count": 2496,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "Leo Fossa (https://sketchfab.com/utsuki)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/big-head-cromulons-from-rick-and-morty-a8b87ae550fe4c13b4ded0a76a713d6b",
+      "title": "Big Head Cromulons from Rick and Morty"
+    },
+    "generator": "Sketchfab-15.46.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 1832448,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 3600,
+      "byteOffset": 1832448,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1982400,
+      "byteOffset": 1836048,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 3818448,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/material_baseColor.png"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "head",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.8,
+          0.613725,
+          0.178309,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.5
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "material",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.0
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Object_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0
+          },
+          "indices": 2,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Object_1",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 4,
+            "POSITION": 3
+          },
+          "indices": 5,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Object_2",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 7,
+            "POSITION": 6,
+            "TEXCOORD_0": 8
+          },
+          "indices": 9,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "name": "root"
+    },
+    {
+      "children": [
+        3,
+        6
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        1.0,
+        0.0,
+        0.0,
+        -1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "GLTF_SceneRootNode"
+    },
+    {
+      "children": [
+        4,
+        5
+      ],
+      "name": "head_0"
+    },
+    {
+      "mesh": 0,
+      "name": "Object_4"
+    },
+    {
+      "mesh": 1,
+      "name": "Object_5"
+    },
+    {
+      "children": [
+        7
+      ],
+      "matrix": [
+        0.5085352009161935,
+        0.019468323235819433,
+        0.09292829409764182,
+        0.0,
+        -0.09432330076767086,
+        0.04571004064976016,
+        0.5065929738364661,
+        0.0,
+        0.010853496478262689,
+        -0.5149313649396087,
+        0.04848324494104551,
+        0.0,
+        -0.3832847774028778,
+        0.6465199589729309,
+        0.6756240129470825,
+        1.0
+      ],
+      "name": "eyes_1"
+    },
+    {
+      "mesh": 2,
+      "name": "Object_7"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 33071,
+      "wrapT": 33071
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    }
+  ]
+}
